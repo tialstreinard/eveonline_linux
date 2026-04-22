@@ -12,4 +12,4 @@ Resolving compatibility issues between Steam and Eve Launcher on Linux systems.
 - Clear shader cache: Sometimes helps with launch issues - delete the shader cache in Steam settings
 
 ## Automating the whole process
-See bash script in this repo
+See [bash script](https://github.com/tialstreinard/eveonline_linux/blob/main/launch_eve.sh) in this repo
